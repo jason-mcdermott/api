@@ -2,15 +2,21 @@
   "movies": [
     {
       "id": 1,
-      "title": "Star Wars"
+      "title": "Star Wars", 
+      "categories": ["Sci-Fi", "Adventure"], 
+      "releaseYear": 1977
     },
     {
       "id": 2,
-      "title": "Empire Strikes Back"
+      "title": "Empire Strikes Back",
+      "categories": ["Sci-Fi", "Adventure"], 
+      "releaseYear": 1981
     },
     {
       "id": 3,
-      "title": "Return of the Jedi"
+      "title": "Return of the Jedi",
+      "categories": ["Sci-Fi"], 
+      "releaseYear": 1983
     }
   ],
   "actors": [
