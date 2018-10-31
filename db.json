@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Star Wars"
+    },
+    {
+      "id": 2,
+      "title": "Empire Strikes Back"
+    },
+    {
+      "id": 3,
+      "title": "Return of the Jedi"
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "name": "Mark Hamill"
+    },
+    {
+      "id": 2,
+      "name": "Harrison Ford"
+    }
+  ],
+  "directors": {
+    "name": "George Lucas"
+  }
+}
